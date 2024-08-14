@@ -1,0 +1,12 @@
+/* src/components/Footer.css */
+.footer {
+  background-color: #efefef; /* Color de fondo típico de footer */
+  color: #909090; /* Color del texto */
+  text-align: center; /* Centrar el texto */
+  padding: 20px 0; /* Espaciado arriba y abajo */
+  position: fixed; /* Fija el footer en la parte inferior de la página */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px; /* Tamaño de la fuente */
+}
